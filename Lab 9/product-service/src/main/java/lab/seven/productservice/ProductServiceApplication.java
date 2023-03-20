@@ -1,6 +1,6 @@
 package lab.seven.productservice;
 
-import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
+
 import lab.seven.productservice.domain.Product;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -11,7 +11,7 @@ import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.cloud.loadbalancer.annotation.LoadBalancerClient;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
-import org.springframework.cloud.netflix.hystrix.EnableHystrix;
+
 import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.context.annotation.Bean;
@@ -29,7 +29,6 @@ import java.util.List;
 @EnableEurekaClient
 @RestController
 @EnableFeignClients
-@EnableHystrix
 @LoadBalancerClient(name="STOCK-SERVICE")
 @RequestMapping("/products")
 public class ProductServiceApplication {
@@ -47,11 +46,11 @@ public class ProductServiceApplication {
 			new Product(106,"HP")
 	);
    @GetMapping("/product/{productNumber}")
-   @HystrixCommand(fallbackMethod = "getTextFallback")
+
 	public Product getProduct(@PathVariable int productNumber){
 		Product product = products.stream().filter(p -> p.getProductNumber() == productNumber).findFirst().orElse(null);
 		System.out.println(product);
-       // product.setCountStock(productStock.numOfProducts(productNumber));
+        product.setCountStock(productStock.numOfProducts(productNumber));
 	log.info("Get product called");
 		return product;
 	}

@@ -47,12 +47,12 @@ public class ProductServiceApplication {
 			new Product(106,"HP")
 	);
    @GetMapping("/product/{productNumber}")
-   @HystrixCommand(fallbackMethod = "getTextFallback")
+  @HystrixCommand(fallbackMethod = "getTextFallback")
 	public Product getProduct(@PathVariable int productNumber){
 		Product product = products.stream().filter(p -> p.getProductNumber() == productNumber).findFirst().orElse(null);
 		System.out.println(product);
        // product.setCountStock(productStock.numOfProducts(productNumber));
-	log.info("Get product called");
+	   log.info("Get product called");
 		return product;
 	}
 

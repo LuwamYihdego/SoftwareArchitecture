@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ConfigServiceB" />
+        <module name="ConfigServiceA" />
+        <module name="StockCommandService" />
+        <module name="ProductCommandService" />
+        <module name="ProductQueryService" />
+        <module name="ConfigServerDemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ConfigServerDemo" target="17" />
+      <module name="ConfigServiceA" target="17" />
+      <module name="ConfigServiceB" target="17" />
+      <module name="ProductCommandService" target="11" />
+      <module name="ProductQueryService" target="11" />
+      <module name="StockCommandService" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ConfigServerDemo" options="-parameters" />
+      <module name="ConfigServiceA" options="-parameters" />
+      <module name="ConfigServiceB" options="-parameters" />
+      <module name="ProductCommandService" options="-parameters" />
+      <module name="ProductQueryService" options="-parameters" />
+      <module name="StockCommandService" options="-parameters" />
+    </option>
+  </component>
+</project>

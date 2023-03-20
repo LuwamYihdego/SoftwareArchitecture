@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Lap12/StreamBasedArchDemo/SpeedService/pom.xml" />
+        <option value="$PROJECT_DIR$/Lap12/StreamBasedArchDemo/TrafficPenalityService/pom.xml" />
+        <option value="$PROJECT_DIR$/Lap12/StreamBasedArchDemo/InterstateTrafficSensor/pom.xml" />
+        <option value="$PROJECT_DIR$/Lap12Part1/StreamBasedArchDemo/KafkaSender/pom.xml" />
+        <option value="$PROJECT_DIR$/Lap12Part1/StreamBasedArchDemo/KafkaReceiver/pom.xml" />
+        <option value="$PROJECT_DIR$/Lap12Part1/StreamBasedArchDemo/InterstateTrafficSensor/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab12Part1/StreamBasedArchDemo/InterstateTrafficSensor/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab12Part1/StreamBasedArchDemo/KafkaReceiver/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab12Part1/StreamBasedArchDemo/KafkaSender/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab12Part2/StreamBasedArchDemo/InterstateTrafficSensor/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab12Part2/StreamBasedArchDemo/SpeedService/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab12Part2/StreamBasedArchDemo/TrafficPenalityService/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

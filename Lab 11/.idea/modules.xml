@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lap-11Part1/AuthorizationServerDemo/AuthorizationServer/AuthorizationServer.iml" filepath="$PROJECT_DIR$/Lap-11Part1/AuthorizationServerDemo/AuthorizationServer/AuthorizationServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab-11Part3/CheckingAccount/CheckingAccount.iml" filepath="$PROJECT_DIR$/Lab-11Part3/CheckingAccount/CheckingAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SWA-Lab11.iml" filepath="$PROJECT_DIR$/.idea/SWA-Lab11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab-11Part3/SavingAccount/SavingAccount.iml" filepath="$PROJECT_DIR$/Lab-11Part3/SavingAccount/SavingAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab-11Part1/AuthorizationServerDemo/SecureServiceB/SecureServiceA.iml" filepath="$PROJECT_DIR$/Lab-11Part1/AuthorizationServerDemo/SecureServiceB/SecureServiceA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab-11Part1/AuthorizationServerDemo/SecureServiceA/SecureServiceA (1).iml" filepath="$PROJECT_DIR$/Lab-11Part1/AuthorizationServerDemo/SecureServiceA/SecureServiceA (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab-11Part1/ServiceC/ServiceC.iml" filepath="$PROJECT_DIR$/Lab-11Part1/ServiceC/ServiceC.iml" />
+    </modules>
+  </component>
+</project>

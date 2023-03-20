@@ -1,10 +1,9 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="StockServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" nameIsGenerated="true">
-    <option name="ACTIVE_PROFILES" value="one" />
-    <envs>
-      <env name="server.port" value="5050" />
-    </envs>
     <module name="stock-service" />
+    <selectedOptions>
+      <option name="environmentVariables" />
+    </selectedOptions>
     <option name="SPRING_BOOT_MAIN_CLASS" value="lab.seven.stockservice.StockServiceApplication" />
     <method v="2">
       <option name="Make" enabled="true" />

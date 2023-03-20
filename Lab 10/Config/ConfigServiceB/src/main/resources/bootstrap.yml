@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ServiceB
+
+  cloud:
+    config:
+      uri: http://localhost:8085

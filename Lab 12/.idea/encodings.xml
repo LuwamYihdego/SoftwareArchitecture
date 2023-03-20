@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Lab12Part1/StreamBasedArchDemo/InterstateTrafficSensor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab12Part1/StreamBasedArchDemo/InterstateTrafficSensor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab12Part1/StreamBasedArchDemo/KafkaReceiver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab12Part1/StreamBasedArchDemo/KafkaReceiver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab12Part1/StreamBasedArchDemo/KafkaSender/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab12Part1/StreamBasedArchDemo/KafkaSender/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab12Part2/StreamBasedArchDemo/InterstateTrafficSensor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab12Part2/StreamBasedArchDemo/InterstateTrafficSensor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab12Part2/StreamBasedArchDemo/SpeedService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab12Part2/StreamBasedArchDemo/SpeedService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab12Part2/StreamBasedArchDemo/TrafficPenalityService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab12Part2/StreamBasedArchDemo/TrafficPenalityService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lap12/StreamBasedArchDemo/InterstateTrafficSensor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lap12/StreamBasedArchDemo/InterstateTrafficSensor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lap12/StreamBasedArchDemo/SpeedService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lap12/StreamBasedArchDemo/SpeedService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lap12/StreamBasedArchDemo/TrafficPenalityService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lap12/StreamBasedArchDemo/TrafficPenalityService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lap12Part1/StreamBasedArchDemo/InterstateTrafficSensor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lap12Part1/StreamBasedArchDemo/InterstateTrafficSensor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lap12Part1/StreamBasedArchDemo/KafkaReceiver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lap12Part1/StreamBasedArchDemo/KafkaReceiver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lap12Part1/StreamBasedArchDemo/KafkaSender/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lap12Part1/StreamBasedArchDemo/KafkaSender/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

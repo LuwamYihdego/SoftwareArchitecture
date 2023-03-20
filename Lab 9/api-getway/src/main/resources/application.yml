@@ -12,7 +12,7 @@ eureka:
 
 
 server:
-  port: 4040
+  port: 4044
 spring:
   application:
     name: API-GATEWAY

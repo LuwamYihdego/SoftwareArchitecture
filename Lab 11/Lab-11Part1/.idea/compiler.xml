@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SecureServiceA (1)" />
+        <module name="ServiceC" />
+        <module name="AuthorizationServer" />
+        <module name="SecureServiceA" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AuthorizationServer" target="11" />
+      <module name="SecureServiceA" target="11" />
+      <module name="SecureServiceA (1)" target="11" />
+      <module name="SecureServiceA (2)" target="11" />
+      <module name="ServiceC" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AuthorizationServer" options="-parameters" />
+      <module name="SecureServiceA" options="-parameters" />
+      <module name="SecureServiceA (1)" options="-parameters" />
+      <module name="SecureServiceA (2)" options="-parameters" />
+      <module name="ServiceC" options="-parameters" />
+    </option>
+  </component>
+</project>

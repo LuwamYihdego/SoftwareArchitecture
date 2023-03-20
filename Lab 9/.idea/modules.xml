@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab 9.iml" filepath="$PROJECT_DIR$/.idea/Lab 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-getway/api-getway.iml" filepath="$PROJECT_DIR$/api-getway/api-getway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-replica-one/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server-replica-one/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-replica-two/eureka-server (1).iml" filepath="$PROJECT_DIR$/eureka-server-replica-two/eureka-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-service/product-service.iml" filepath="$PROJECT_DIR$/product-service/product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stock-service/stock-service.iml" filepath="$PROJECT_DIR$/stock-service/stock-service.iml" />
+    </modules>
+  </component>
+</project>

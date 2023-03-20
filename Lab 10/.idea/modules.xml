@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Config/ConfigServerDemo/ConfigServerDemo.iml" filepath="$PROJECT_DIR$/Config/ConfigServerDemo/ConfigServerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Config/ConfigServiceA/ConfigServiceA.iml" filepath="$PROJECT_DIR$/Config/ConfigServiceA/ConfigServiceA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Config/ConfigServiceB/ConfigServiceB.iml" filepath="$PROJECT_DIR$/Config/ConfigServiceB/ConfigServiceB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductCommandService/ProductCommandService.iml" filepath="$PROJECT_DIR$/ProductCommandService/ProductCommandService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductQueryService/ProductQueryService.iml" filepath="$PROJECT_DIR$/ProductQueryService/ProductQueryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWA-Lab10.iml" filepath="$PROJECT_DIR$/SWA-Lab10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StockCommandService/StockCommandService.iml" filepath="$PROJECT_DIR$/StockCommandService/StockCommandService.iml" />
+    </modules>
+  </component>
+</project>
